@@ -1,0 +1,15 @@
+C:\Users\SykesJ\source\repos\Battle Ship Test\Battle Ship Test\bin\Debug\net6.0\Battle Ship Test.exe
+C:\Users\SykesJ\source\repos\Battle Ship Test\Battle Ship Test\bin\Debug\net6.0\Battle Ship Test.deps.json
+C:\Users\SykesJ\source\repos\Battle Ship Test\Battle Ship Test\bin\Debug\net6.0\Battle Ship Test.runtimeconfig.json
+C:\Users\SykesJ\source\repos\Battle Ship Test\Battle Ship Test\bin\Debug\net6.0\Battle Ship Test.dll
+C:\Users\SykesJ\source\repos\Battle Ship Test\Battle Ship Test\bin\Debug\net6.0\Battle Ship Test.pdb
+C:\Users\SykesJ\source\repos\Battle Ship Test\Battle Ship Test\obj\Debug\net6.0\Battle Ship Test.csproj.AssemblyReference.cache
+C:\Users\SykesJ\source\repos\Battle Ship Test\Battle Ship Test\obj\Debug\net6.0\Battle Ship Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SykesJ\source\repos\Battle Ship Test\Battle Ship Test\obj\Debug\net6.0\Battle Ship Test.AssemblyInfoInputs.cache
+C:\Users\SykesJ\source\repos\Battle Ship Test\Battle Ship Test\obj\Debug\net6.0\Battle Ship Test.AssemblyInfo.cs
+C:\Users\SykesJ\source\repos\Battle Ship Test\Battle Ship Test\obj\Debug\net6.0\Battle Ship Test.csproj.CoreCompileInputs.cache
+C:\Users\SykesJ\source\repos\Battle Ship Test\Battle Ship Test\obj\Debug\net6.0\Battle Ship Test.dll
+C:\Users\SykesJ\source\repos\Battle Ship Test\Battle Ship Test\obj\Debug\net6.0\refint\Battle Ship Test.dll
+C:\Users\SykesJ\source\repos\Battle Ship Test\Battle Ship Test\obj\Debug\net6.0\Battle Ship Test.pdb
+C:\Users\SykesJ\source\repos\Battle Ship Test\Battle Ship Test\obj\Debug\net6.0\Battle Ship Test.genruntimeconfig.cache
+C:\Users\SykesJ\source\repos\Battle Ship Test\Battle Ship Test\obj\Debug\net6.0\ref\Battle Ship Test.dll
